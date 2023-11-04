@@ -11,4 +11,3 @@ while zgadywanaLiczba != szukanaLiczba:
         print("Różnica to: ", zgadywanaLiczba - szukanaLiczba)
     elif zgadywanaLiczba < szukanaLiczba:
         print("Zgadywana liczba jest za mała")
-
